@@ -1,13 +1,16 @@
-###»ùÓÚJQueryÄ£·Â[Î°´ï½ğÔÆÇÅ](http://www.yunbridge.cn/)ÍøÕ¾µÄÉè¼Æ
+###åŸºäºJQueryæ¨¡ä»¿[ä¼Ÿè¾¾é‡‘äº‘æ¡¥](http://www.yunbridge.cn/)ç½‘ç«™çš„è®¾è®¡
 
-- »ùÓÚJQuery²å¼ş»úÖÆÊµÏÖÁËÀàËÆÓÚ[bootstrap-validator](https://github.com/1000hz/bootstrap-validator)µÄ±íµ¥ÑéÖ¤¿ò¼Ü
-- »ùÓÚExpress´î½¨ÁË¼òµ¥µÄ¾²Ì¬ÍøÒ³·şÎñÆ÷
-- Ê¹ÓÃ[Echarts](http://echarts.baidu.com/)¶ÔÊı¾İ½øĞĞ¿ÉÊÓ»¯´¦Àí
-- »ùÓÚJQueryÊµÏÖÁËÒ»Ì×JSONÊı¾İÇı¶¯¿ò¼Ü£¬ÊµÏÖÊı¾İµÄÁª¶¯¹ØÁª
+- åŸºäºJQueryæ’ä»¶æœºåˆ¶å®ç°äº†ç±»ä¼¼äº[bootstrap-validator](https://github.com/1000hz/bootstrap-validator)çš„è¡¨å•éªŒè¯æ¡†æ¶
+- åŸºäºExpressæ­å»ºäº†ç®€å•çš„é™æ€ç½‘é¡µæœåŠ¡å™¨
+- ä½¿ç”¨[Echarts](http://echarts.baidu.com/)å¯¹æ•°æ®è¿›è¡Œå¯è§†åŒ–å¤„ç†
+- åŸºäºJQueryå®ç°äº†ä¸€å¥—JSONæ•°æ®é©±åŠ¨æ¡†æ¶ï¼Œå®ç°æ•°æ®çš„è”åŠ¨å…³è”
 
 
-#### ¿ªÊ¼£¨ĞèÒªÏÈ°²×°[Node.js](https://nodejs.org/)£©
+#### å¼€å§‹ï¼ˆéœ€è¦å…ˆå®‰è£…[Node.js](https://nodejs.org/)ï¼‰
 > git clone https://github.com/dicklwm/JqueryP2P.git
+
 > cd JQueryP2P
+
 > npm install
+
 > npm start
